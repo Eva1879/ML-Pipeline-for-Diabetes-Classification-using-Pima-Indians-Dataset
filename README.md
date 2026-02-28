@@ -1,11 +1,16 @@
 # ML-Pipeline-for-Diabetes-Classification-using-Pima-Indians-Dataset
 A machine learning project to predict the onset of diabetes based on diagnostic measurements. This repository covers EDA, data preprocessing (handling class imbalance and missing values), and classification modeling using the PIMA Indians Diabetes Dataset.
 
-PIMA Diabetes Classification - ML Pipeline with kNN
+[PIMA Diabetes Classification - ML Pipeline with kNN
 https://img.shields.io/badge/python-3.8+-blue.svg
 https://img.shields.io/badge/scikit--learn-1.0+-orange.svg
 https://img.shields.io/badge/pandas-1.3+-green.svg
-
+](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python
+https://img.shields.io/badge/scikit--learn-1.0+-orange?style=for-the-badge&logo=scikit-learn
+https://img.shields.io/badge/pandas-1.3+-green?style=for-the-badge&logo=pandas
+https://img.shields.io/badge/numpy-1.21+-blue?style=for-the-badge&logo=numpy
+https://img.shields.io/badge/matplotlib-3.5+-red?style=for-the-badge
+https://img.shields.io/badge/seaborn-0.11+-blue?style=for-the-badge)
 A complete machine learning pipeline for binary classification on the PIMA Indians Diabetes Dataset, comparing kNN with PCA and ANOVA feature selection techniques.
 
 📊 Dataset
